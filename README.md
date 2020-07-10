@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m pursuing B.Tech in Information & Communication Technology (ICT) at Marwadi University.
 - 🌱 I am Machine Learning and AI enthusiast
 - 👯 Currently i am interning at one of the comapany to implement the learning with experiments in the feild of Computer vision. 
-- 📫 How to reach me: linkedin.com/in/paramteraiya (Linkedin)
-                      paramteraiya09.github.io/  (Portfolio)
+- 📫 How to reach me: https://www.linkedin.com/in/paramteraiya/ (Linkedin)
+                      https://paramteraiya09.github.io/  (Portfolio)
                       paramteraiya@gmail.com (Email)
 
